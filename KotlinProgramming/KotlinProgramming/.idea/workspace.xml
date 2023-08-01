@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709522-1d4a-4ccd-9dad-f4d5d8d22a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap02/section2/FormattedString.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap02/section2/MinMax.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap02/section2/StringExpression.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap02/section2/StringTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap02/section2/ValVar.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap02/section2/approximateNumber.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap02/section2/freeSpace.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap02/section3/AnyArgTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap02/section3/AnyCasting.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap02/section3/NullTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap02/section3/NumberTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap02/section3/SafeCallandElvis.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap02/section3/ValueRefCompare.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap02/section3/isCheck.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,46 +35,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.FormattedStringKt">
-    <configuration name="ApproximateNumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap02.section2.ApproximateNumberKt" />
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap02\section3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.AnyArgTestKt">
+    <configuration name="AnyArgTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap02.section3.AnyArgTestKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FormattedStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap02.section2.FormattedStringKt" />
+    <configuration name="AnyCastingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap02.section3.AnyCastingKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMaxKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap02.section2.MinMaxKt" />
+    <configuration name="IsCheckKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap02.section3.IsCheckKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap02.section2.StringExpressionKt" />
+    <configuration name="NullTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap02.section3.NullTestKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap02.section2.StringTestKt" />
+    <configuration name="ValueRefCompareKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap02.section3.ValueRefCompareKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.FormattedStringKt" />
-        <item itemvalue="Kotlin.StringExpressionKt" />
-        <item itemvalue="Kotlin.StringTestKt" />
-        <item itemvalue="Kotlin.MinMaxKt" />
-        <item itemvalue="Kotlin.ApproximateNumberKt" />
+        <item itemvalue="Kotlin.AnyArgTestKt" />
+        <item itemvalue="Kotlin.AnyCastingKt" />
+        <item itemvalue="Kotlin.IsCheckKt" />
+        <item itemvalue="Kotlin.ValueRefCompareKt" />
+        <item itemvalue="Kotlin.NullTestKt" />
       </list>
     </recent_temporary>
   </component>
