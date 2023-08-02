@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709522-1d4a-4ccd-9dad-f4d5d8d22a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap02/section3/AnyArgTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap02/section3/AnyCasting.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap02/section3/NullTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap02/section3/NumberTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap02/section3/SafeCallandElvis.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap02/section3/ValueRefCompare.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap02/section3/isCheck.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap02/section4/BitsShift.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap02/section4/IncDecOperator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap02/section4/LogicalBitwise.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap02/section4/UshrEx.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap02/section4/XorSwapTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +47,7 @@
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap02\section3" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.AnyArgTestKt">
+  <component name="RunManager" selected="Kotlin.XorSwapTestKt">
     <configuration name="AnyArgTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap02.section3.AnyArgTestKt" />
       <module name="KotlinProgramming" />
@@ -57,29 +55,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnyCastingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap02.section3.AnyCastingKt" />
+    <configuration name="BitsShiftKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap02.section4.BitsShiftKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsCheckKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap02.section3.IsCheckKt" />
+    <configuration name="LogicalBitwiseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap02.section4.LogicalBitwiseKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap02.section3.NullTestKt" />
+    <configuration name="UshrExKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap02.section4.UshrExKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValueRefCompareKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap02.section3.ValueRefCompareKt" />
+    <configuration name="XorSwapTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap02.section4.XorSwapTestKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.XorSwapTestKt" />
+        <item itemvalue="Kotlin.LogicalBitwiseKt" />
+        <item itemvalue="Kotlin.UshrExKt" />
+        <item itemvalue="Kotlin.BitsShiftKt" />
         <item itemvalue="Kotlin.AnyArgTestKt" />
-        <item itemvalue="Kotlin.AnyCastingKt" />
-        <item itemvalue="Kotlin.IsCheckKt" />
-        <item itemvalue="Kotlin.ValueRefCompareKt" />
-        <item itemvalue="Kotlin.NullTestKt" />
       </list>
     </recent_temporary>
   </component>
