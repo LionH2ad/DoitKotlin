@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709522-1d4a-4ccd-9dad-f4d5d8d22a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap02/section4/BitsShift.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap02/section4/IncDecOperator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap02/section4/LogicalBitwise.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap02/section4/UshrEx.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap02/section4/XorSwapTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section1/DefaultParameter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section1/MaxFunc.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section1/NamedParam.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section1/VarargsTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section1/sumFunc.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,37 +47,37 @@
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap02\section3" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.XorSwapTestKt">
-    <configuration name="AnyArgTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap02.section3.AnyArgTestKt" />
+  <component name="RunManager" selected="Kotlin.VarargsTestKt">
+    <configuration name="DefaultParameterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.section1.DefaultParameterKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BitsShiftKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap02.section4.BitsShiftKt" />
+    <configuration name="MaxFuncKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.section1.MaxFuncKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicalBitwiseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap02.section4.LogicalBitwiseKt" />
+    <configuration name="NamedParamKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.section1.NamedParamKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UshrExKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap02.section4.UshrExKt" />
+    <configuration name="SumFuncKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.section1.SumFuncKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XorSwapTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap02.section4.XorSwapTestKt" />
+    <configuration name="VarargsTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.section1.VarargsTestKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.XorSwapTestKt" />
-        <item itemvalue="Kotlin.LogicalBitwiseKt" />
-        <item itemvalue="Kotlin.UshrExKt" />
-        <item itemvalue="Kotlin.BitsShiftKt" />
-        <item itemvalue="Kotlin.AnyArgTestKt" />
+        <item itemvalue="Kotlin.VarargsTestKt" />
+        <item itemvalue="Kotlin.NamedParamKt" />
+        <item itemvalue="Kotlin.DefaultParameterKt" />
+        <item itemvalue="Kotlin.MaxFuncKt" />
+        <item itemvalue="Kotlin.SumFuncKt" />
       </list>
     </recent_temporary>
   </component>
