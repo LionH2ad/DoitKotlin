@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709522-1d4a-4ccd-9dad-f4d5d8d22a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap03/section1/DefaultParameter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section1/MaxFunc.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section1/NamedParam.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section1/VarargsTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section1/sumFunc.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section3/HighOderTest2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section3/HighOrderTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section3/funcargs/FuncArgument.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section3/funcfunc/FuncFunc.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,12 +43,21 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap03\section3\funcargs" />
+      <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap03\section3\funcfunc" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap02\section3" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.VarargsTestKt">
+  <component name="RunManager" selected="Kotlin.FuncArgumentKt">
     <configuration name="DefaultParameterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap03.section1.DefaultParameterKt" />
+      <module name="KotlinProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FuncArgumentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.section3.funcargs.FuncArgumentKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,13 +77,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumFuncKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section1.SumFuncKt" />
-      <module name="KotlinProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="VarargsTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap03.section1.VarargsTestKt" />
       <module name="KotlinProgramming" />
@@ -85,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FuncArgumentKt" />
         <item itemvalue="Kotlin.VarargsTestKt" />
         <item itemvalue="Kotlin.NamedParamKt" />
         <item itemvalue="Kotlin.DefaultParameterKt" />
         <item itemvalue="Kotlin.MaxFuncKt" />
-        <item itemvalue="Kotlin.SumFuncKt" />
       </list>
     </recent_temporary>
   </component>
