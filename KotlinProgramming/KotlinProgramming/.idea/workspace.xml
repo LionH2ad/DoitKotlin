@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709522-1d4a-4ccd-9dad-f4d5d8d22a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap03/section3/HighOderTest2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section3/HighOrderTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section3/funcargs/FuncArgument.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section3/funcfunc/FuncFunc.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section3/CallByName.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section3/CallByValue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section3/FunctionReference.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section3/HighOrderTest3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section3/MoreParamCount.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section3/ParamCount.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section3/TwoLambdaParam.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,14 +51,7 @@
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap02\section3" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.FuncArgumentKt">
-    <configuration name="DefaultParameterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section1.DefaultParameterKt" />
-      <module name="KotlinProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.TwoLambdaParamKt">
     <configuration name="FuncArgumentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap03.section3.funcargs.FuncArgumentKt" />
       <module name="KotlinProgramming" />
@@ -63,22 +59,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxFuncKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section1.MaxFuncKt" />
+    <configuration name="FunctionReferenceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.section3.FunctionReferenceKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NamedParamKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section1.NamedParamKt" />
+    <configuration name="HighOrderTest3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.section3.HighOrderTest3Kt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarargsTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section1.VarargsTestKt" />
+    <configuration name="ParamCountKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.section3.ParamCountKt" />
+      <module name="KotlinProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoLambdaParamKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.section3.TwoLambdaParamKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TwoLambdaParamKt" />
+        <item itemvalue="Kotlin.ParamCountKt" />
+        <item itemvalue="Kotlin.FunctionReferenceKt" />
+        <item itemvalue="Kotlin.HighOrderTest3Kt" />
         <item itemvalue="Kotlin.FuncArgumentKt" />
-        <item itemvalue="Kotlin.VarargsTestKt" />
-        <item itemvalue="Kotlin.NamedParamKt" />
-        <item itemvalue="Kotlin.DefaultParameterKt" />
-        <item itemvalue="Kotlin.MaxFuncKt" />
       </list>
     </recent_temporary>
   </component>
