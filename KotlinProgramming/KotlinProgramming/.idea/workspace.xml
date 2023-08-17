@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709522-1d4a-4ccd-9dad-f4d5d8d22a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap03/section3/CallByName.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section3/CallByValue.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section3/FunctionReference.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section3/HighOrderTest3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section3/MoreParamCount.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section3/ParamCount.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section3/TwoLambdaParam.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section3/funcfunc/LockHighOrder.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap03/section3/TwoLambdaParam.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap03/section3/TwoLambdaParam.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,23 +46,9 @@
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap02\section3" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TwoLambdaParamKt">
-    <configuration name="FuncArgumentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section3.funcargs.FuncArgumentKt" />
-      <module name="KotlinProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionReferenceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section3.FunctionReferenceKt" />
-      <module name="KotlinProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HighOrderTest3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section3.HighOrderTest3Kt" />
+  <component name="RunManager" selected="Kotlin.LockHighOrderKt">
+    <configuration name="LockHighOrderKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.section3.funcfunc.LockHighOrderKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,6 +56,20 @@
     </configuration>
     <configuration name="ParamCountKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap03.section3.ParamCountKt" />
+      <module name="KotlinProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCodeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.test.TestCodeKt" />
+      <module name="KotlinProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCode_02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.test.TestCode_02Kt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LockHighOrderKt" />
         <item itemvalue="Kotlin.TwoLambdaParamKt" />
+        <item itemvalue="Kotlin.TestCode_02Kt" />
+        <item itemvalue="Kotlin.TestCodeKt" />
         <item itemvalue="Kotlin.ParamCountKt" />
-        <item itemvalue="Kotlin.FunctionReferenceKt" />
-        <item itemvalue="Kotlin.HighOrderTest3Kt" />
-        <item itemvalue="Kotlin.FuncArgumentKt" />
       </list>
     </recent_temporary>
   </component>
