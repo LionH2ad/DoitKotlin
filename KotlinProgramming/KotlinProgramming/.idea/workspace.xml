@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709522-1d4a-4ccd-9dad-f4d5d8d22a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap03/section3/funcfunc/LockHighOrder.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section5/ExtensionFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section5/InfixFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section5/InlineFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section5/NormalFactorial.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section5/crossinline/LocalReturnCrossinline.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section5/example.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section5/localreturn/LocalReturn.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section5/noinline/NoinlineTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section5/tailrec/TailRecFactorial.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section5/tailrec/TailRecursionFibonacci.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section6/GlobalLocalVars.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section6/LocalFunctionRange.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap03/section3/TwoLambdaParam.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap03/section3/TwoLambdaParam.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap03/section3/funcfunc/LockHighOrder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap03/section4/LockHighOrder.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Class" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -30,53 +42,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap03\section5\tailrec" />
+      <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap03\section5\noinline" />
+      <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap03\section4" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap03\section3\funcargs" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap03\section3\funcfunc" />
-      <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap02\section3" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.LockHighOrderKt">
-    <configuration name="LockHighOrderKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section3.funcfunc.LockHighOrderKt" />
+  <component name="RunManager" selected="Kotlin.ExampleKt">
+    <configuration name="ExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.section5.ExampleKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParamCountKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section3.ParamCountKt" />
+    <configuration name="GlobalLocalVarsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.section6.GlobalLocalVarsKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCodeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.test.TestCodeKt" />
+    <configuration name="LocalFunctionRangeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.section6.LocalFunctionRangeKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCode_02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.test.TestCode_02Kt" />
+    <configuration name="NormalFactorialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.section5.NormalFactorialKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoLambdaParamKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section3.TwoLambdaParamKt" />
+    <configuration name="TailRecursionFibonacciKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.section5.tailrec.TailRecursionFibonacciKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.LockHighOrderKt" />
-        <item itemvalue="Kotlin.TwoLambdaParamKt" />
-        <item itemvalue="Kotlin.TestCode_02Kt" />
-        <item itemvalue="Kotlin.TestCodeKt" />
-        <item itemvalue="Kotlin.ParamCountKt" />
+        <item itemvalue="Kotlin.ExampleKt" />
+        <item itemvalue="Kotlin.LocalFunctionRangeKt" />
+        <item itemvalue="Kotlin.GlobalLocalVarsKt" />
+        <item itemvalue="Kotlin.TailRecursionFibonacciKt" />
+        <item itemvalue="Kotlin.NormalFactorialKt" />
       </list>
     </recent_temporary>
   </component>

@@ -1,4 +1,4 @@
-package chap03.section3.funcfunc
+package chap03.section4
 
 import java.util.concurrent.locks.ReentrantLock
 
