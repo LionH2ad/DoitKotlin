@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709522-1d4a-4ccd-9dad-f4d5d8d22a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap03/section5/ExtensionFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section5/InfixFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section5/InlineFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section5/NormalFactorial.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section5/crossinline/LocalReturnCrossinline.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section5/example.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section5/localreturn/LocalReturn.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section5/noinline/NoinlineTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section5/tailrec/TailRecFactorial.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section5/tailrec/TailRecursionFibonacci.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section6/GlobalLocalVars.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section6/LocalFunctionRange.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/section1/IfCondition.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/section1/IfElseIfCondition.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/section1/WhenAnyCase.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/section1/WhenArgs.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/section1/WhenNoArgs.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap03/section3/funcfunc/LockHighOrder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap03/section4/LockHighOrder.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,37 +53,37 @@
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap03\section3\funcfunc" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ExampleKt">
-    <configuration name="ExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section5.ExampleKt" />
+  <component name="RunManager" selected="Kotlin.WhenAnyCaseKt">
+    <configuration name="IfConditionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section1.IfConditionKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GlobalLocalVarsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section6.GlobalLocalVarsKt" />
+    <configuration name="IfElseIfConditionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section1.IfElseIfConditionKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalFunctionRangeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section6.LocalFunctionRangeKt" />
+    <configuration name="WhenAnyCaseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section1.WhenAnyCaseKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NormalFactorialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section5.NormalFactorialKt" />
+    <configuration name="WhenArgsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section1.WhenArgsKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TailRecursionFibonacciKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section5.tailrec.TailRecursionFibonacciKt" />
+    <configuration name="WhenNoArgsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section1.WhenNoArgsKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ExampleKt" />
-        <item itemvalue="Kotlin.LocalFunctionRangeKt" />
-        <item itemvalue="Kotlin.GlobalLocalVarsKt" />
-        <item itemvalue="Kotlin.TailRecursionFibonacciKt" />
-        <item itemvalue="Kotlin.NormalFactorialKt" />
+        <item itemvalue="Kotlin.WhenAnyCaseKt" />
+        <item itemvalue="Kotlin.WhenNoArgsKt" />
+        <item itemvalue="Kotlin.WhenArgsKt" />
+        <item itemvalue="Kotlin.IfElseIfConditionKt" />
+        <item itemvalue="Kotlin.IfConditionKt" />
       </list>
     </recent_temporary>
   </component>
