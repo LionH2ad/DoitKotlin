@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709522-1d4a-4ccd-9dad-f4d5d8d22a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap04/section1/IfCondition.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap04/section1/IfElseIfCondition.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap04/section1/WhenAnyCase.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap04/section1/WhenArgs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap04/section1/WhenNoArgs.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/section2/DowhileLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/section2/ForOddSum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/section2/ForSum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/section2/ForTriangle.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/section2/WhileFactorial.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,16 +34,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap03\section5\tailrec" />
@@ -53,37 +53,37 @@
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap03\section3\funcfunc" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.WhenAnyCaseKt">
-    <configuration name="IfConditionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section1.IfConditionKt" />
+  <component name="RunManager" selected="Kotlin.DowhileLoopKt">
+    <configuration name="DowhileLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section2.DowhileLoopKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseIfConditionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section1.IfElseIfConditionKt" />
+    <configuration name="ForOddSumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section2.ForOddSumKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhenAnyCaseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section1.WhenAnyCaseKt" />
+    <configuration name="ForSumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section2.ForSumKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhenArgsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section1.WhenArgsKt" />
+    <configuration name="ForTriangleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section2.ForTriangleKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhenNoArgsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section1.WhenNoArgsKt" />
+    <configuration name="WhileFactorialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section2.WhileFactorialKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.WhenAnyCaseKt" />
-        <item itemvalue="Kotlin.WhenNoArgsKt" />
-        <item itemvalue="Kotlin.WhenArgsKt" />
-        <item itemvalue="Kotlin.IfElseIfConditionKt" />
-        <item itemvalue="Kotlin.IfConditionKt" />
+        <item itemvalue="Kotlin.DowhileLoopKt" />
+        <item itemvalue="Kotlin.WhileFactorialKt" />
+        <item itemvalue="Kotlin.ForOddSumKt" />
+        <item itemvalue="Kotlin.ForTriangleKt" />
+        <item itemvalue="Kotlin.ForSumKt" />
       </list>
     </recent_temporary>
   </component>
