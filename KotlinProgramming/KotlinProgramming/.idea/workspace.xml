@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709522-1d4a-4ccd-9dad-f4d5d8d22a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap05/section1/define/BirdClassDefine.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section2/Example.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section2/init/BirdPrimaryDefault.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section2/init/BirdPrimaryInit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section2/primary/BirdPrimaryConstructor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section2/secondary/BirdSecondaryConstructor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,37 +56,37 @@
       <recent name="chap05.section1.define" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.BirdClassDefineKt">
-    <configuration name="BirdClassDefineKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section1.define.BirdClassDefineKt" />
+  <component name="RunManager" selected="Kotlin.ExampleKt">
+    <configuration name="BirdPrimaryConstructorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section2.primary.BirdPrimaryConstructorKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomExceptionTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section3.CustomExceptionTestKt" />
+    <configuration name="BirdPrimaryDefaultKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section2.init.default.BirdPrimaryDefaultKt" />
+      <module name="KotlinProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BirdPrimaryInitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section2.init.BirdPrimaryInitKt" />
+      <module name="KotlinProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BirdSecondaryConstructorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section2.secondary.BirdSecondaryConstructorKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section3.ExampleKt" />
-      <module name="KotlinProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThrowExceptionTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section3.ThrowExceptionTestKt" />
-      <module name="KotlinProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TryCatchKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section3.TryCatchKt" />
+      <option name="MAIN_CLASS_NAME" value="chap05.section2.ExampleKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.BirdClassDefineKt" />
-        <item itemvalue="Kotlin.CustomExceptionTestKt" />
-        <item itemvalue="Kotlin.ThrowExceptionTestKt" />
-        <item itemvalue="Kotlin.TryCatchKt" />
         <item itemvalue="Kotlin.ExampleKt" />
+        <item itemvalue="Kotlin.BirdPrimaryInitKt" />
+        <item itemvalue="Kotlin.BirdPrimaryDefaultKt" />
+        <item itemvalue="Kotlin.BirdPrimaryConstructorKt" />
+        <item itemvalue="Kotlin.BirdSecondaryConstructorKt" />
       </list>
     </recent_temporary>
   </component>
