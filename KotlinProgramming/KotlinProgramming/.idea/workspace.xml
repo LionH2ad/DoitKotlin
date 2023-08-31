@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709522-1d4a-4ccd-9dad-f4d5d8d22a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap04/section3/CustomExceptionTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap04/section3/Example.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap04/section3/InlineLambdaReturn.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap04/section3/NormalBreakContinue.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap04/section3/ThrowExceptionTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap04/section3/TryCatch.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap04/section3/noinline/NoInlineLambdaReturn.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section1/define/BirdClassDefine.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +47,18 @@
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap03\section4" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap03\section3\funcargs" />
     </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="chap05.section1.define" />
+    </key>
   </component>
-  <component name="RunManager" selected="Kotlin.CustomExceptionTestKt">
+  <component name="RunManager" selected="Kotlin.BirdClassDefineKt">
+    <configuration name="BirdClassDefineKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section1.define.BirdClassDefineKt" />
+      <module name="KotlinProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CustomExceptionTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap04.section3.CustomExceptionTestKt" />
       <module name="KotlinProgramming" />
@@ -65,13 +68,6 @@
     </configuration>
     <configuration name="ExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap04.section3.ExampleKt" />
-      <module name="KotlinProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NormalBreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section3.NormalBreakContinueKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BirdClassDefineKt" />
         <item itemvalue="Kotlin.CustomExceptionTestKt" />
         <item itemvalue="Kotlin.ThrowExceptionTestKt" />
         <item itemvalue="Kotlin.TryCatchKt" />
         <item itemvalue="Kotlin.ExampleKt" />
-        <item itemvalue="Kotlin.NormalBreakContinueKt" />
       </list>
     </recent_temporary>
   </component>
