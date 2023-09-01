@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709522-1d4a-4ccd-9dad-f4d5d8d22a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap05/section4/AngleBrackerTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap05/section4/innerref/InnerClassRef.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap05/section4/prisecon/PersonPriSeconRef.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section5/InternalTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section5/InternalTestOtherFile.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section5/Privatetest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section5/ProtectedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section5/burglar/CarVisibilityPublic.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,17 +46,17 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap05\section5\burglar" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap05\section4\innerref" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap05\section3\override" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap04\section3\noinline" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap03\section5\tailrec" />
-      <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap03\section5\noinline" />
     </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="chap05.section1.define" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.AngleBrackerTestKt">
+  <component name="RunManager" selected="Kotlin.CarVisibilityPublicKt">
     <configuration name="AngleBrackerTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap05.section4.AngleBrackerTestKt" />
       <module name="KotlinProgramming" />
@@ -69,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BirdPrimaryInitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section2.init.BirdPrimaryInitKt" />
+    <configuration name="CarVisibilityPublicKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section5.burglar.CarVisibilityPublicKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CarVisibilityPublicKt" />
         <item itemvalue="Kotlin.AngleBrackerTestKt" />
         <item itemvalue="Kotlin.PersonPriSeconRefKt" />
         <item itemvalue="Kotlin.BirdOverrideExKt" />
         <item itemvalue="Kotlin.ExampleKt" />
-        <item itemvalue="Kotlin.BirdPrimaryInitKt" />
       </list>
     </recent_temporary>
   </component>
