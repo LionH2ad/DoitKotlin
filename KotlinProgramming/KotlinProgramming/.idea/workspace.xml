@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709522-1d4a-4ccd-9dad-f4d5d8d22a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap05/section5/InternalTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap05/section5/InternalTestOtherFile.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap05/section5/Privatetest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap05/section5/ProtectedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap05/section5/burglar/CarVisibilityPublic.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section6/AggregationTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section6/Example.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section6/association/AssociationTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section6/composition/CompositionTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section6/dependency/DependencyTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,47 +46,47 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap05\section6\dependency" />
+      <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap05\section6\association" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap05\section5\burglar" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap05\section4\innerref" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap05\section3\override" />
-      <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap04\section3\noinline" />
-      <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap03\section5\tailrec" />
     </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="chap05.section1.define" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.CarVisibilityPublicKt">
-    <configuration name="AngleBrackerTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section4.AngleBrackerTestKt" />
+  <component name="RunManager" selected="Kotlin.ExampleKt">
+    <configuration name="AggregationTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section6.AggregationTestKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BirdOverrideExKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section3.override.BirdOverrideExKt" />
+    <configuration name="AssociationTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section6.association.AssociationTestKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarVisibilityPublicKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section5.burglar.CarVisibilityPublicKt" />
+    <configuration name="CompositionTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section6.composition.CompositionTestKt" />
+      <module name="KotlinProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DependencyTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section6.dependency.DependencyTestKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section2.ExampleKt" />
-      <module name="KotlinProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PersonPriSeconRefKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section4.prisecon.PersonPriSeconRefKt" />
+      <option name="MAIN_CLASS_NAME" value="chap05.section6.ExampleKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.CarVisibilityPublicKt" />
-        <item itemvalue="Kotlin.AngleBrackerTestKt" />
-        <item itemvalue="Kotlin.PersonPriSeconRefKt" />
-        <item itemvalue="Kotlin.BirdOverrideExKt" />
         <item itemvalue="Kotlin.ExampleKt" />
+        <item itemvalue="Kotlin.AggregationTestKt" />
+        <item itemvalue="Kotlin.DependencyTestKt" />
+        <item itemvalue="Kotlin.CompositionTestKt" />
+        <item itemvalue="Kotlin.AssociationTestKt" />
       </list>
     </recent_temporary>
   </component>
