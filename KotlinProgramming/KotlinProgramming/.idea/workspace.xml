@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709522-1d4a-4ccd-9dad-f4d5d8d22a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap05/section6/AggregationTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap05/section6/Example.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap05/section6/association/AssociationTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap05/section6/composition/CompositionTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap05/section6/dependency/DependencyTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section1/FakeAgeTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section1/NormalGetterSetter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section1/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section1/PropertyOverride.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section1/customgetset/CustomGetterSetter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section1/customproperty/CustomGetterSetterBackingProperty.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section1/gettersetter/GetterSetterTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,17 +48,17 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap06\section1\gettersetter" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap05\section6\dependency" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap05\section6\association" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap05\section5\burglar" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap05\section4\innerref" />
-      <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap05\section3\override" />
     </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="chap05.section1.define" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ExampleKt">
+  <component name="RunManager" selected="Kotlin.PropertyOverrideKt">
     <configuration name="AggregationTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap05.section6.AggregationTestKt" />
       <module name="KotlinProgramming" />
@@ -64,15 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AssociationTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section6.association.AssociationTestKt" />
-      <module name="KotlinProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CompositionTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section6.composition.CompositionTestKt" />
+    <configuration name="CustomGetterSetterBackingPropertyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.section1.customproperty.CustomGetterSetterBackingPropertyKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,13 +87,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PropertyOverrideKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.section1.PropertyOverrideKt" />
+      <module name="KotlinProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PropertyOverrideKt" />
+        <item itemvalue="Kotlin.CustomGetterSetterBackingPropertyKt" />
         <item itemvalue="Kotlin.ExampleKt" />
         <item itemvalue="Kotlin.AggregationTestKt" />
         <item itemvalue="Kotlin.DependencyTestKt" />
-        <item itemvalue="Kotlin.CompositionTestKt" />
-        <item itemvalue="Kotlin.AssociationTestKt" />
       </list>
     </recent_temporary>
   </component>
