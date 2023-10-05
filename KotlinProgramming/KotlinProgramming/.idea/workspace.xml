@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709522-1d4a-4ccd-9dad-f4d5d8d22a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap06/section1/FakeAgeTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/section1/NormalGetterSetter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/section1/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/section1/PropertyOverride.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/section1/customgetset/CustomGetterSetter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/section1/customproperty/CustomGetterSetterBackingProperty.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/section1/gettersetter/GetterSetterTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section2/ByLazyTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section2/DelegatedClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section2/DelegatedProperty.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section2/DelegatedPropertyVetoable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section2/LateinitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section2/Practice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section2/bylazyobj/ByLazyObj.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,40 +48,40 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap06\section2\bylazyobj" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap06\section1\gettersetter" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap05\section6\dependency" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap05\section6\association" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap05\section5\burglar" />
-      <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap05\section4\innerref" />
     </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="chap05.section1.define" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.PropertyOverrideKt">
-    <configuration name="AggregationTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section6.AggregationTestKt" />
+  <component name="RunManager" selected="Kotlin.DelegatedPropertyVetoableKt">
+    <configuration name="ByLazyObjKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.section2.bylazyobj.ByLazyObjKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomGetterSetterBackingPropertyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.section1.customproperty.CustomGetterSetterBackingPropertyKt" />
+    <configuration name="DelegatedClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.section2.DelegatedClassKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DependencyTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section6.dependency.DependencyTestKt" />
+    <configuration name="DelegatedPropertyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.section2.DelegatedPropertyKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section6.ExampleKt" />
+    <configuration name="DelegatedPropertyVetoableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.section2.DelegatedPropertyVetoableKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DelegatedPropertyVetoableKt" />
+        <item itemvalue="Kotlin.DelegatedPropertyKt" />
+        <item itemvalue="Kotlin.DelegatedClassKt" />
+        <item itemvalue="Kotlin.ByLazyObjKt" />
         <item itemvalue="Kotlin.PropertyOverrideKt" />
-        <item itemvalue="Kotlin.CustomGetterSetterBackingPropertyKt" />
-        <item itemvalue="Kotlin.ExampleKt" />
-        <item itemvalue="Kotlin.AggregationTestKt" />
-        <item itemvalue="Kotlin.DependencyTestKt" />
       </list>
     </recent_temporary>
   </component>
