@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709522-1d4a-4ccd-9dad-f4d5d8d22a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap06/section2/ByLazyTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/section2/DelegatedClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/section2/DelegatedProperty.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/section2/DelegatedPropertyVetoable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/section2/LateinitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/section2/Practice.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/section2/bylazyobj/ByLazyObj.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section3/CompanionObjectTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section3/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section3/CustomerAccess.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section3/KCustomer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section3/KCustomerAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section3/OCustomerAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section3/ObjectDeclaration.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section3/ObjectExpression.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section3/ObjectExpressionSuperMan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section3/PackageLevelAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section3/PackageLevelFunction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,37 +62,43 @@
       <recent name="chap05.section1.define" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.DelegatedPropertyVetoableKt">
-    <configuration name="ByLazyObjKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.section2.bylazyobj.ByLazyObjKt" />
+  <component name="RunManager" selected="Kotlin.ObjectDeclarationKt">
+    <configuration name="KCustomerAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.section3.KCustomerAccess" />
+      <module name="KotlinProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap06.section3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanionObjectTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.section3.CompanionObjectTestKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DelegatedClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.section2.DelegatedClassKt" />
+    <configuration name="CustomerAccessKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.section3.CustomerAccessKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DelegatedPropertyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.section2.DelegatedPropertyKt" />
+    <configuration name="ObjectDeclarationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.section3.ObjectDeclarationKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DelegatedPropertyVetoableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.section2.DelegatedPropertyVetoableKt" />
-      <module name="KotlinProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PropertyOverrideKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.section1.PropertyOverrideKt" />
+    <configuration name="PKLevel" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.section3.PKLevel" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.DelegatedPropertyVetoableKt" />
-        <item itemvalue="Kotlin.DelegatedPropertyKt" />
-        <item itemvalue="Kotlin.DelegatedClassKt" />
-        <item itemvalue="Kotlin.ByLazyObjKt" />
-        <item itemvalue="Kotlin.PropertyOverrideKt" />
+        <item itemvalue="Kotlin.ObjectDeclarationKt" />
+        <item itemvalue="Kotlin.PKLevel" />
+        <item itemvalue="Application.KCustomerAccess" />
+        <item itemvalue="Kotlin.CustomerAccessKt" />
+        <item itemvalue="Kotlin.CompanionObjectTestKt" />
       </list>
     </recent_temporary>
   </component>
