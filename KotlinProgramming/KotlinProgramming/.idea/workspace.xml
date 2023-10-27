@@ -5,19 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709522-1d4a-4ccd-9dad-f4d5d8d22a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap07/coffeeMaker/CoffeeModule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/coffeeMaker/ElectricHeater.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/coffeeMaker/Heater.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/coffeeMaker/MyDripCoffeeModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/coffeeMaker/Pump.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/coffeeMaker/Thermosiphon.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/section1/AbstractObject.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/section1/AbstractVehicle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/section1/CatAndDog.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/section1/InterfacePet.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/section1/PegasusTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/section1/extras/InterfaceDelegationEx.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jetbrains_kotlin_reflect.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/section2/EnumClassTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/section2/InnerClassTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/section2/NestedClassTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/section2/ReflectionClassTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/section2/SealedClassTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/section2/extras/DataClassTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KotlinProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KotlinProgramming.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
-        <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -41,16 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap06\section2\bylazyobj" />
@@ -63,21 +64,7 @@
       <recent name="chap05.section1.define" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.CoffeeMakerKt">
-    <configuration name="AbstractVehicleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap07.section1.AbstractVehicleKt" />
-      <module name="KotlinProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CatAndDogKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap07.section1.CatAndDogKt" />
-      <module name="KotlinProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.ReflectionClassTestKt">
     <configuration name="CoffeeMakerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap07.coffeeMaker.CoffeeMakerKt" />
       <module name="KotlinProgramming" />
@@ -85,15 +72,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectDeclarationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.section3.ObjectDeclarationKt" />
+    <configuration name="EnumClassTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap07.section2.EnumClassTestKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PKLevel" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.section3.PKLevel" />
+    <configuration name="NestedClassTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap07.section2.NestedClassTestKt" />
+      <module name="KotlinProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionClassTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap07.section2.ReflectionClassTestKt" />
+      <module name="KotlinProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SealedClassTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap07.section2.SealedClassTestKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ReflectionClassTestKt" />
+        <item itemvalue="Kotlin.EnumClassTestKt" />
+        <item itemvalue="Kotlin.SealedClassTestKt" />
+        <item itemvalue="Kotlin.NestedClassTestKt" />
         <item itemvalue="Kotlin.CoffeeMakerKt" />
-        <item itemvalue="Kotlin.CatAndDogKt" />
-        <item itemvalue="Kotlin.AbstractVehicleKt" />
-        <item itemvalue="Kotlin.ObjectDeclarationKt" />
-        <item itemvalue="Kotlin.PKLevel" />
       </list>
     </recent_temporary>
   </component>
