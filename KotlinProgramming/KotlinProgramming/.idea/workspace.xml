@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709522-1d4a-4ccd-9dad-f4d5d8d22a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jetbrains_kotlin_reflect.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/section2/EnumClassTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/section2/InnerClassTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/section2/NestedClassTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/section2/ReflectionClassTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/section2/SealedClassTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/section2/extras/DataClassTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/section3/OperatorOverloading.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/section3/extras/InvokeOperator.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KotlinProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KotlinProgramming.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,21 +31,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap06\section2\bylazyobj" />
@@ -64,14 +58,7 @@
       <recent name="chap05.section1.define" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ReflectionClassTestKt">
-    <configuration name="CoffeeMakerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap07.coffeeMaker.CoffeeMakerKt" />
-      <module name="KotlinProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.InvokeOperatorKt">
     <configuration name="EnumClassTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap07.section2.EnumClassTestKt" />
       <module name="KotlinProgramming" />
@@ -79,8 +66,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedClassTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap07.section2.NestedClassTestKt" />
+    <configuration name="InvokeOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap07.section3.extras.InvokeOperatorKt" />
+      <module name="KotlinProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorOverloadingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap07.section3.OperatorOverloadingKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InvokeOperatorKt" />
+        <item itemvalue="Kotlin.OperatorOverloadingKt" />
         <item itemvalue="Kotlin.ReflectionClassTestKt" />
         <item itemvalue="Kotlin.EnumClassTestKt" />
         <item itemvalue="Kotlin.SealedClassTestKt" />
-        <item itemvalue="Kotlin.NestedClassTestKt" />
-        <item itemvalue="Kotlin.CoffeeMakerKt" />
       </list>
     </recent_temporary>
   </component>
