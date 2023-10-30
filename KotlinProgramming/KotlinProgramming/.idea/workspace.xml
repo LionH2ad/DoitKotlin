@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709522-1d4a-4ccd-9dad-f4d5d8d22a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap08/section1/FindIndex.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap08/section1/GenericBox.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap08/section1/GenericCasting.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap08/section1/GenericNull.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap08/section1/LamdaParameter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap08/section1/NumberLimit.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap08/section1/ReifiedGeneric.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap08/section1/extras/ClassWhereLimit.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap08/section1/extras/CompareClasses.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap08/section1/limit/VarianceLimitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap08/section1/variance/VarianceTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap08/section2/ArrayAccessTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap08/section2/ArrayCasting.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap08/section2/ArraySortedClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap08/section2/ArraySortedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap08/section2/sortwith/ArraySortedSortWith.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,47 +51,47 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap08\section2\sortwith" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap08\section1\variance" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap08\section1\limit" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap06\section2\bylazyobj" />
       <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap06\section1\gettersetter" />
-      <recent name="D:\Users\Do_It_Kotlin\KotlinProgramming\KotlinProgramming\src\chap05\section6\dependency" />
     </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="chap05.section1.define" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.VarianceLimitTestKt">
-    <configuration name="FindIndexKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap08.section1.FindIndexKt" />
+  <component name="RunManager" selected="Kotlin.ArrayFlattenTestKt">
+    <configuration name="ArrayFlattenTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap08.section2.ArrayFlattenTestKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericCastingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap08.section1.GenericCastingKt" />
+    <configuration name="ArraySortedClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap08.section2.ArraySortedClassKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LamdaParameterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap08.section1.LamdaParameterKt" />
+    <configuration name="ArraySortedSortWithKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap08.section2.sortwith.ArraySortedSortWithKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberLimitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap08.section1.NumberLimitKt" />
+    <configuration name="ArraySortedTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap08.section2.ArraySortedTestKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarianceLimitTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap08.section1.limit.VarianceLimitTestKt" />
+    <configuration name="SortByMapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap08.section2.SortByMapKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.VarianceLimitTestKt" />
-        <item itemvalue="Kotlin.NumberLimitKt" />
-        <item itemvalue="Kotlin.LamdaParameterKt" />
-        <item itemvalue="Kotlin.FindIndexKt" />
-        <item itemvalue="Kotlin.GenericCastingKt" />
+        <item itemvalue="Kotlin.ArrayFlattenTestKt" />
+        <item itemvalue="Kotlin.SortByMapKt" />
+        <item itemvalue="Kotlin.ArraySortedSortWithKt" />
+        <item itemvalue="Kotlin.ArraySortedClassKt" />
+        <item itemvalue="Kotlin.ArraySortedTestKt" />
       </list>
     </recent_temporary>
   </component>
