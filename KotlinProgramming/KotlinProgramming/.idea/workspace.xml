@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709522-1d4a-4ccd-9dad-f4d5d8d22a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap08/section2/ArrayAccessTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap08/section2/ArrayCasting.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap08/section2/ArraySortedClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap08/section2/ArraySortedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap08/section2/sortwith/ArraySortedSortWith.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap09/section2/ArrayList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap09/section2/ImmutableToMutable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap09/section2/ListBasic.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap09/section2/ListLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap09/section2/ListMethods.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap09/section2/MutableList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap09/section2/extras/LinkedList.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +63,7 @@
       <recent name="chap05.section1.define" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ArrayFlattenTestKt">
+  <component name="RunManager" selected="Kotlin.ListLoopKt">
     <configuration name="ArrayFlattenTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap08.section2.ArrayFlattenTestKt" />
       <module name="KotlinProgramming" />
@@ -69,29 +71,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraySortedClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap08.section2.ArraySortedClassKt" />
+    <configuration name="BookStoreKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap08.section3.BookStoreKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraySortedSortWithKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap08.section2.sortwith.ArraySortedSortWithKt" />
+    <configuration name="ListBasicKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap09.section2.ListBasicKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraySortedTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap08.section2.ArraySortedTestKt" />
+    <configuration name="ListLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap09.section2.ListLoopKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortByMapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap08.section2.SortByMapKt" />
+    <configuration name="LiteralEscapeTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap08.section3.extras.LiteralEscapeTestKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ListLoopKt" />
+        <item itemvalue="Kotlin.ListBasicKt" />
+        <item itemvalue="Kotlin.BookStoreKt" />
+        <item itemvalue="Kotlin.LiteralEscapeTestKt" />
         <item itemvalue="Kotlin.ArrayFlattenTestKt" />
-        <item itemvalue="Kotlin.SortByMapKt" />
-        <item itemvalue="Kotlin.ArraySortedSortWithKt" />
-        <item itemvalue="Kotlin.ArraySortedClassKt" />
-        <item itemvalue="Kotlin.ArraySortedTestKt" />
       </list>
     </recent_temporary>
   </component>
