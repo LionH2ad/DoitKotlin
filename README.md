@@ -1,6 +1,6 @@
 ---
 # Do it Kotlin Programming
 ---
-<br><br>
+<br>
 
 > practice Kotlin Example
