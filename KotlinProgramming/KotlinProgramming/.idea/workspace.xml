@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709522-1d4a-4ccd-9dad-f4d5d8d22a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap09/section2/ArrayList.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap09/section2/ImmutableToMutable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap09/section2/ListBasic.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap09/section2/ListLoop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap09/section2/ListMethods.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap09/section2/MutableList.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap09/section2/extras/LinkedList.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
